@@ -1,0 +1,15 @@
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\bin\Debug\net6.0\Adivinar un numero.exe
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\bin\Debug\net6.0\Adivinar un numero.deps.json
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\bin\Debug\net6.0\Adivinar un numero.runtimeconfig.json
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\bin\Debug\net6.0\Adivinar un numero.dll
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\bin\Debug\net6.0\Adivinar un numero.pdb
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.csproj.AssemblyReference.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.AssemblyInfoInputs.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.AssemblyInfo.cs
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.csproj.CoreCompileInputs.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.dll
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\refint\Adivinar un numero.dll
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.pdb
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\Adivinar un numero.genruntimeconfig.cache
+C:\Users\Toomi\OneDrive\Documentos\MIS CERTIFICADOS GUGUL DEVELOPER\Adivinar un numero\obj\Debug\net6.0\ref\Adivinar un numero.dll
